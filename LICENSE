@@ -16,8 +16,8 @@ downloading, installing or using Ember you agree to these terms. If you do not a
    Subject to these terms, the Ember Team grants you a personal, non-exclusive, non-transferable, revocable
    licence, without the right to sublicense, to:
 
-   a. download and install the released builds of Ember on computers you own or control;
-   b. use Ember on those computers for your own work, including work you are paid for;
+   a. download and install the released builds of Ember on any number of computers you own or control;
+   b. use Ember on those computers for your own work, including commercial work;
    c. make the copies that installing, running and backing up Ember need;
    d. read the documentation in this repository, and copy it for your own use of Ember.
 
@@ -63,7 +63,7 @@ downloading, installing or using Ember you agree to these terms. If you do not a
 
    This licence lasts until it ends. It ends automatically, without notice, if you break these terms. The Ember
    Team may also end it by notice. When it ends you must stop using Ember and delete every copy you have.
-   Sections 1, 3, 6, 8, 9, 10 and 11 continue to apply afterwards.
+   Sections 1, 3, 6, 8, 9, 10, 11 and 12 continue to apply afterwards.
 
 8. No warranty
 
@@ -86,13 +86,20 @@ downloading, installing or using Ember you agree to these terms. If you do not a
    OpenAI, Visual Studio Code, VSCodium and other names belong to their owners and are used only to say what Ember
    works with. Ember is not made by, affiliated with, endorsed by or sponsored by any of them.
 
-11. General
+11. Governing law
+
+   These terms are governed by the laws of the State of Ohio, USA, without regard to its conflict-of-law rules.
+   Any dispute about Ember or these terms is to be brought only in the state or federal courts serving Cuyahoga
+   County, Ohio, and you and the Ember Team accept the jurisdiction of those courts. This does not take away
+   rights that the consumer law of your own country gives you and that cannot be waived.
+
+12. General
 
    If a court finds part of these terms unenforceable, the rest stays in force. Not enforcing a term is not a
    waiver of it. You may not transfer this licence to anyone else. These terms are the whole agreement between
    you and the Ember Team about Ember.
 
-12. Contact
+13. Contact
 
    To ask for permission beyond these terms, or to report a problem with them, open an issue at
    https://github.com/dgruhin-hrizn/ember-releases/issues.
