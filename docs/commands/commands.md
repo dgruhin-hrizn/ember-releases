@@ -55,7 +55,6 @@ Run any of these from the Command Palette (⇧⌘P on macOS, Ctrl+Shift+P on Win
 | Ember: Compare Chats Side by Side | `ember.compareChats` | — | — |
 | Ember: Compare Versions of This Chat… | `ember.chat.compareTries` | — | — |
 | Ember: Copy Chat as Markdown | `ember.copyChatMarkdown` | — | — |
-| Ember: Copy Chats and Plans from Ember Beta | `ember.chats.copyFromBeta` | — | — |
 | Ember: Copy Code Link | `ember.copyCodeLink` | — | — |
 | Ember: Copy Diagnostics | `ember.about.copyDiagnostics` | — | — |
 | Ember: Copy Path | `ember.outputs.copyPath` | — | — |
@@ -73,7 +72,7 @@ Run any of these from the Command Palette (⇧⌘P on macOS, Ctrl+Shift+P on Win
 | Ember: Go to Chat or File in Any Tab… | `ember.tabs.goTo` | — | — |
 | Ember: Hide Chat Panel *(not in the Command Palette)* | `ember.hideAgent` | `⌘L` `⌘I` | `Ctrl+L` `Ctrl+I` |
 | Ember: Hide Chats | `ember.hideChats` | — | — |
-| Ember: Import Settings from VS Code, VSCodium or Cursor… | `ember.importProfile` | — | — |
+| Ember: Import Settings from VS Code, VSCodium or another editor… | `ember.importProfile` | — | — |
 | Ember: Inline Edit | `ember.inlineEdit` | `⌘K` `⌘K ⌘G` | `Ctrl+K` `Ctrl+K Ctrl+G` |
 | Ember: Install the Branch Workflow Skill for Claude Code | `ember.installBranchSkill` | — | — |
 | Ember: Issues | `ember.issues.open` | `⌘K ⇧I` | `Ctrl+K Shift+I` |

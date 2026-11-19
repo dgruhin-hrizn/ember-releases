@@ -83,7 +83,7 @@ How **Watch PR** brings a conflicting pull request up to date with its base bran
 
 ### `ember.dashboard.showOnStartup`
 
-When a window opens with the Ember Dashboard (a window with no folder opens Welcome instead). Ember.app and Ember Beta default to `always`.
+When a window opens with the Ember Dashboard (a window with no folder opens Welcome instead). Ember.app defaults to `always`.
 
 - **Type:** one of the values below
 - **Default:** `"never"`

@@ -41,7 +41,7 @@ pull request and CI, pinned, asleep) and how much memory its window uses. The
 The tab you're in always keeps its full width. The others share what's left, every one the same width, and each is
 cut from the right only: first the end of the branch fades out, then the whole branch goes, then the **wt** mark, then
 the pull request. The repository's name is never cut: when it no longer fits, the tab shows a two-letter mark for its
-repository instead (for example **hr** for hrizn and **mc** for hrizn-mcp), chosen so your open repositories never
+repository instead, chosen so your open repositories never
 share one. A repository with its own icon shows that icon instead of the letters. Widen the window and everything comes
 back. Only past that does the row of tabs scroll sideways (use the scroll wheel), and only then does the **All tabs**
 button (⌄) appear, listing every tab. A tab dragged in from another window makes room the same way.

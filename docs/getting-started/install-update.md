@@ -55,8 +55,7 @@ Or run **Check for Updates** from the Command Palette.
 ## See your version
 
 **Settings › General › Version** shows the Ember version and the editor it runs on. Click **About Ember…** (or
-**About Ember**) for the About page, a sheet of facts: the version (click it to copy), the channel
-(**Stable**, or **Beta** for Ember Beta, which runs beside Ember), when it was built, what it runs on and your
+**About Ember**) for the About page, a sheet of facts: the version (click it to copy), the channel, when it was built, what it runs on and your
 account. Below them, the update state: a green dot for **Up to date**, a yellow one when a new version is available,
 with **Check again** to look now. **What's new** shows the release notes. Hover **Dashboard** in the status bar for
 **About Ember** with the version. The version also shows at the far right of the status bar (click it for **About

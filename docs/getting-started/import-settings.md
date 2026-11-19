@@ -21,7 +21,7 @@ Ember looks for VS Code, VSCodium and other VS Code–based editors on this comp
 
 Ember backs up every file it changes before writing it, and installs the extensions from this editor's extension
 gallery. When it's done, the chat on screen says what was imported (a notification, with no chat open); **Open backup
-folder** shows the backups, and from Cursor **Import rules and commands…** brings its rules into Claude Code. Extensions
+folder** shows the backups, and from another editor **Import rules and commands…** brings its rules into Claude Code. Extensions
 the gallery doesn't have are listed there too.
 
 > **Note:** Close or save any settings, keybindings or snippets file with unsaved changes first: Ember won't import

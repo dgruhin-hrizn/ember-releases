@@ -34,28 +34,6 @@ tag and its folders. **Sign in** or **Sign out** is on the card; **⋯ More** ha
 The plan is named as Claude Code names it: Pro, Max, Ultra, Team or Enterprise, or a newer plan by its own name. The
 same name shows on the account's usage bars, in Usage and in About.
 
-## Bring your accounts from Ember Beta
-
-Ember and Ember Beta keep their own settings. When Ember opens with no accounts of its own and Ember Beta has some, it
-offers once to import them: choose **Import** or **Not now**.
-
-**Import** copies your account list, your default account, [`ember.accounts.whenLow`](../settings/settings-other.md#emberaccountswhenlow) and the low-usage lines
-from Ember Beta's settings. A setting you already changed in Ember stays as it is. Only settings are copied, never a
-sign-in. Each account's sign-in stays in its own Claude Code folder, which both apps use, so an account signed in for
-one is signed in for the other too.
-
-Ember also offers to copy the chats and plans it doesn't have from Ember Beta. Anything already in Ember stays as
-it is, Ember Beta keeps its own, and Ember Beta can stay open meanwhile. A plan file in Ember Beta's own data is copied
-into Ember's, and a plan in a project folder stays where it is. A copied chat arrives at rest: nothing in it starts on
-its own, even one that's still working in Ember Beta. One that ran in a worktree keeps it and can open a pull request
-from it, but Ember doesn't remove that worktree. Your other settings and saved Bonfire runs aren't copied. If you
-close that notice without answering, Ember asks again the next time it opens. After **Not now** it doesn't ask again:
-run **Copy Chats and Plans from Ember Beta** whenever you want them.
-
-If you close the accounts offer without answering, Ember asks again the next time it opens. After **Not now** it doesn't
-ask again. You can still copy the `ember.accounts.*` settings
-from Ember Beta's `settings.json` into Ember's.
-
 ## What every account shares
 
 Your accounts share everything except the sign-in itself. Ember links these from your main Claude Code folder into
