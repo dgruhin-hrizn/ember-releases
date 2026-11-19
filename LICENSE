@@ -1,0 +1,98 @@
+Ember Licence
+
+Copyright (c) 2026 the Ember Team. All rights reserved.
+
+This licence covers Ember: the applications, installers, packages and updates published as releases in this
+repository, and the documentation, names, logos and other files in this repository (together, "Ember"). By
+downloading, installing or using Ember you agree to these terms. If you do not agree, do not use Ember.
+
+1. Ownership
+
+   Ember is licensed, not sold. The Ember Team owns Ember and keeps every right in it that these terms do not
+   grant to you, except for the third-party components described in section 6.
+
+2. What you may do
+
+   Subject to these terms, the Ember Team grants you a personal, non-exclusive, non-transferable, revocable
+   licence, without the right to sublicense, to:
+
+   a. download and install the released builds of Ember on computers you own or control;
+   b. use Ember on those computers for your own work, including work you are paid for;
+   c. make the copies that installing, running and backing up Ember need;
+   d. read the documentation in this repository, and copy it for your own use of Ember.
+
+   Your code, your chats and whatever else you make with Ember stay yours. These terms give the Ember Team no
+   rights in them.
+
+3. What you may not do
+
+   Unless the Ember Team has given you written permission first, you may not, in whole or in part:
+
+   a. redistribute, mirror, publish, sublicense, sell, rent, lease or lend Ember, or host it for others to
+      download or use;
+   b. modify, adapt, translate or create derivative works of Ember;
+   c. decompile, disassemble or reverse engineer Ember, or try to obtain its source code, except to the extent
+      that applicable law expressly permits this despite this restriction;
+   d. remove, alter or obscure any copyright, trademark or other notice in Ember;
+   e. work around any technical limit in Ember, or use Ember to break the law or anyone else's rights;
+   f. use Ember, or its documentation, to train, fine-tune or evaluate a machine-learning model, or include it
+      in a dataset;
+   g. use the Ember name, logo or wordmark, or anything confusingly similar, for a product, service or project.
+
+4. Other services
+
+   Ember works with software and services it does not include and that the Ember Team does not provide, such as
+   the Claude Code CLI, your Claude subscription, and any other model provider or model server you connect. Your
+   use of each is under your own agreement with its provider, and you are responsible for following it. The Ember
+   Team is not responsible for those services, their availability, their cost or what they produce.
+
+5. Updates and feedback
+
+   Ember may check for, download and install new versions as its settings say. These terms cover every version
+   unless a version comes with other terms. If you send the Ember Team feedback, suggestions or problem reports,
+   the Ember Team may use them without restriction and without owing you anything.
+
+6. Third-party components
+
+   Ember includes third-party software and assets that stay under their own licences, listed in
+   THIRD-PARTY-NOTICES.md in this repository and in the notice files inside the application. Nothing in these
+   terms limits your rights under those licences for those components on their own. These terms apply to
+   everything else.
+
+7. Termination
+
+   This licence lasts until it ends. It ends automatically, without notice, if you break these terms. The Ember
+   Team may also end it by notice. When it ends you must stop using Ember and delete every copy you have.
+   Sections 1, 3, 6, 8, 9, 10 and 11 continue to apply afterwards.
+
+8. No warranty
+
+   EMBER IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+   NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. EMBER
+   RUNS COMMANDS AND CHANGES FILES ON YOUR COMPUTER AT THE DIRECTION OF AI MODELS. YOU ARE RESPONSIBLE FOR
+   REVIEWING WHAT IT DOES AND FOR KEEPING BACKUPS OF YOUR WORK.
+
+9. Limit of liability
+
+   TO THE EXTENT THE LAW ALLOWS, IN NO EVENT SHALL THE EMBER TEAM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+   EMBER OR THE USE OF OR OTHER DEALINGS IN EMBER, INCLUDING LOSS OF DATA, LOSS OF PROFITS AND INDIRECT, SPECIAL,
+   INCIDENTAL OR CONSEQUENTIAL DAMAGES. NOTHING IN THESE TERMS LIMITS LIABILITY THAT THE LAW DOES NOT ALLOW TO BE
+   LIMITED, OR RIGHTS YOU HAVE AS A CONSUMER THAT CANNOT BE WAIVED.
+
+10. Trademarks and affiliation
+
+   "Ember" and the Ember logo and wordmark are marks of the Ember Team. Claude, Claude Code, Anthropic, ChatGPT,
+   OpenAI, Visual Studio Code, VSCodium and other names belong to their owners and are used only to say what Ember
+   works with. Ember is not made by, affiliated with, endorsed by or sponsored by any of them.
+
+11. General
+
+   If a court finds part of these terms unenforceable, the rest stays in force. Not enforcing a term is not a
+   waiver of it. You may not transfer this licence to anyone else. These terms are the whole agreement between
+   you and the Ember Team about Ember.
+
+12. Contact
+
+   To ask for permission beyond these terms, or to report a problem with them, open an issue at
+   https://github.com/dgruhin-hrizn/ember-releases/issues.
